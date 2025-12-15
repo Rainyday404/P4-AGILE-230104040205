@@ -2,6 +2,13 @@
 
 > **Untuk Memenuhi Praktikum 4 Web Service Engineering**
 
+**Identitas Pengembang**
+* **Nama**: Ivan Dwika Bagaskara (Hujan/Rain)
+* **NIM**: 230104040205
+* **Kelas**: <ISI_KELAS_KAMU_DISINI>
+
+---
+
 **Mini E-Commerce API (Orders & Notifications)**
 Proyek ini menggunakan metodologi Agile dengan siklus:
 1.  **Design-First**: Kontrak API (OpenAPI).
@@ -91,5 +98,3 @@ curl [http://127.0.0.1:5003/notifications](http://127.0.0.1:5003/notifications) 
 ```
 
 ````
-
----
