@@ -5,7 +5,7 @@
 **Identitas Pengembang**
 * **Nama**: Ivan Dwika Bagaskara (Hujan/Rain)
 * **NIM**: 230104040205
-* **Kelas**: <ISI_KELAS_KAMU_DISINI>
+* **Kelas**: A
 
 ---
 
